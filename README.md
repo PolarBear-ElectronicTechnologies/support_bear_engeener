@@ -1,5 +1,5 @@
 # support_bear_engeener
-What about of our products?
+What do you know about our products?
 # Hello, Friends!
 
 I’m your new assistant — **Polar Bear‑Engineer** from **«RV Polar Bear»**! 🐻❄️

@@ -3,7 +3,11 @@ What about of our products?
 # Hello, Friends!
 
 I’m your new assistant — **Polar Bear‑Engineer** from **«RV Polar Bear»**! 🐻❄️
+
+
 ![pc.png](pc.png)
+
+
 Today, I’ll tell you about our amazing development kits: **PBKit 101** and **PBKit 101‑A‑Base**. If you dream of launching a prototype or small‑scale product quickly and hassle‑free, these kits are perfect for you!
 
 ## What Are PBKit 101 and PBKit 101‑A‑Base?

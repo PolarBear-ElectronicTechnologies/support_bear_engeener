@@ -3,7 +3,7 @@ What about of our products?
 # Hello, Friends!
 
 I’m your new assistant — **Polar Bear‑Engineer** from **«RV Polar Bear»**! 🐻❄️
-
+![pc.png]
 Today, I’ll tell you about our amazing development kits: **PBKit 101** and **PBKit 101‑A‑Base**. If you dream of launching a prototype or small‑scale product quickly and hassle‑free, these kits are perfect for you!
 
 ## What Are PBKit 101 and PBKit 101‑A‑Base?
@@ -89,7 +89,7 @@ We don’t just sell great kits — we also:
 
 ## Where to Buy?
 
-Visit our website **RV Polar Bear** or email us at **polarbear.embedded@yandex.ru**. We’ll respond within 2–3 hours and help you choose the best option.
+Visit our website **RV Polar Bear**  - https://pb-embedded.ru/?ysclid=mkdr13170724658482 or email us at **polarbear.embedded@yandex.ru**. We’ll respond within 2–3 hours and help you choose the best option.
 
 **PBKit 101** and **PBKit 101‑A‑Base** aren’t just boards — they’re your fast start in the world of electronics. With them, you’ll:
 - Save time on component sourcing;

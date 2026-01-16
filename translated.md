@@ -406,9 +406,8 @@
    - запишите образ на eMMC через режим USB Boot;
    - подключитесь по SSH (учётные данные в `credentials.md`).
 6. **Запустите примеры:**
-   - *ИИ:* `tflite_benchmark` (resnet50);
-   - *зрение:* конвейер `gstreamer_8k`;
-   - *I/O:* `gpio_matrix_test`.
+   - *I/O:* `gpio_matrix_test`
+   - *ИИ:* `тесты`.
 
 
 ## Почему стоит выбрать нас?

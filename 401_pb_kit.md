@@ -122,10 +122,6 @@ We provide:
 - System integration (hardware + software);
 - ODM/OEM solutions (custom form factors, branding).
 
-**Technical support**:  
-- Email: `support@rvpolarbear.com`;  
-- Phone: +7 (XXX) XXX‑XX‑XX;  
-- Telegram: `@rvpolarbear_support`.
 
 
 ## Where to Buy
